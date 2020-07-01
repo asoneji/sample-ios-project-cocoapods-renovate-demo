@@ -11,7 +11,7 @@ Sample project with automated dependency updates for Cocoapods using Renovatebot
 3. Did `pod init` and added a pod dependency
    * Added Source:
      * `source 'https://github.com/asoneji/test-pods-repo.git'` **//NOTE: This is a private repo**
-     * `source 'https://github.com/CocoaPods/Specs.git'`
+     * `source 'https://cdn.cocoapods.org/'`
    * Added Dependency:
      * `pod 'Analytics', '3.8.1'`
      * `pod 'TestMeLib', '0.1.0'`
