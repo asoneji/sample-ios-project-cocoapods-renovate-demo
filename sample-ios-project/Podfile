@@ -10,7 +10,7 @@ target 'sample-ios-project' do
   use_frameworks!
 
   # Pods for sample-ios-project
-  pod 'Analytics', '3.8.1'
+  pod 'Analytics', '3.9.0'
   pod 'TestMeLib', '0.1.0'
 
   target 'sample-ios-projectTests' do
