@@ -9,13 +9,13 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/asoneji/test-pods-repo.git:
     - TestMeLib
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - Analytics
 
 SPEC CHECKSUMS:
   Analytics: 45b1faec509367a99c7b788cc5389180c43fe3fc
   TestMeLib: 01cca72caf9a2b4ca9335aeada99a7c0da357959
 
-PODFILE CHECKSUM: 549584fa158695e089af71bc451620065401dc93
+PODFILE CHECKSUM: be1edcfccd2e7a80a49b51e366925f75488c7ebf
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.9.3
