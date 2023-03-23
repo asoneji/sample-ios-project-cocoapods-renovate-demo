@@ -11,7 +11,7 @@ target 'sample-ios-project' do
 
   # Pods for sample-ios-project
   pod 'Analytics', '3.8.1'
-  pod 'TestMeLib', '0.1.0'
+  pod 'TestMeLib', '0.1.1'
 
   target 'sample-ios-projectTests' do
     inherit! :search_paths
